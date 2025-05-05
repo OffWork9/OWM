@@ -2,7 +2,7 @@
     "OffWork": [
         {
             "owm_lib": "OWMlib",
-            "phien_ban": 2
+            "phien_ban": 999
         }
     ]
 }
